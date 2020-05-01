@@ -18,10 +18,12 @@ body {
   padding: 20px;
 }
 
-h1, a {
+h1{
   color: var(--primary-color);
 }
-
+.container a {
+  color: var(--primary-color)!important;
+}
 p {
   text-align: center;
 }
