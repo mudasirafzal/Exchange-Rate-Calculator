@@ -1,6 +1,8 @@
 ## Exchange Rate
 
 Select countries to get the exchange rate for a specific amount
+<br>
+<a href="http://mstechlabs.com/vanilla/exchangerate" target="_blank">Demo Link</a>
 
 ## Project Specifications
 
